@@ -3,7 +3,7 @@ A project that was developed for the semester data bases course.
 
 Installation instructions:
 
-1.Download all the necessary code from github link: https://github.com/EfNik/Lesson-DB-Project-Local-basketball-tournament .
+1.Download all the necessary code from github link: (https://github.com/PanagiotisVasilakis/Local-basketball-tournament.git) .
 
 2.Open the project with the editor of your choice (visual studio code suggested).
 
